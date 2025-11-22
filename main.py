@@ -1,7 +1,7 @@
 import streamlit as st
 from prediction_helper import predict
 
-st.set_page_config(page_title="Health Insurance Cost Predictor", layout="wide")
+st.set_page_config(page_title="Health Insurance Cost Predictor Latur Branch", layout="wide")
 
 st.title("💰 Health Insurance Cost Predictor")
 st.markdown("Predict your health insurance cost based on your profile and lifestyle.")
